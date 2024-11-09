@@ -1,4 +1,4 @@
-# STSpoofCall
+# SpoofCall
 Spoof call stack for make reversing harder.
 
 If analyze DecryptStack function, reverser can track original function.
